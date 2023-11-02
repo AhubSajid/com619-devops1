@@ -20,12 +20,12 @@ You should also provide a simple test plan which demonstrates testing of feature
 | ----------- | ----------- | ------ |
 | 1 | the application will be secured with https using correct certificates |   |
 | 2 | ReST api's will be documented using openAPI (swagger) |   |
-| 3 | all dynamic data will be stored in a database |   |
+| 3 | all dynamic data will be stored in a database | ✔ |
 | 4 | the application will support internationalisation i18n |   |
-| 5 | user documentation will be included on the hosted site |   |
-| 6 | the site will respect GPDR guidelines |   |
-| 7 | the backend server will be hosted in the cloud and use container technology (docker) |   |
-| 8 | user authentication will authenticate access to upload to the app |   |
+| 5 | user documentation will be included on the hosted site | - |
+| 6 | the site will respect GPDR guidelines | - |
+| 7 | the backend server will be hosted in the cloud and use container technology (docker) | ✔ |
+| 8 | user authentication will authenticate access to upload to the app | - |
 | 9 | the app will support user and administrator roles and the signing up of new users |   |
 
 
