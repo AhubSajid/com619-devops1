@@ -18,7 +18,7 @@ You should also provide a simple test plan which demonstrates testing of feature
 
 | Requirement | Description |        |
 | ----------- | ----------- | ------ |
-| 1 | the application will be secured with https using correct certificates |   |
+| 1 | the application will be secured with https using correct certificates | ✔ |
 | 2 | ReST api's will be documented using openAPI (swagger) |   |
 | 3 | all dynamic data will be stored in a database | ✔ |
 | 4 | the application will support internationalisation i18n |   |
@@ -36,7 +36,7 @@ However it is also acceptable to use a web page which renders on the mobile devi
 
 | Requirement | Description |        |
 | ----------- | ----------- | ------ |
-| 1 | it shall be possible to use the application from a mobile device  |   |
-| 2 | the web site will render on a mobile and desktop screen (responsive)  |   |
+| 1 | it shall be possible to use the application from a mobile device  | ✔ |
+| 2 | the web site will render on a mobile and desktop screen (responsive)  | ✔ |
 | 3 | the mobile client will include code to upload geolocation provided by the device  |   |
 | 4 | The remote client must authenticate itself and use the ReST api to communicate with the hosted server. |   |
